@@ -4,7 +4,7 @@
 
 ### :open_book: About me
 
-I am a Computer Engineering graduated at Centro Universitário de Anápolis - UniEVANGÉLICA. Passionate about technology and web development (front-end), I am always trying to improve my skills and learn new ones.
+I am a Computer Engineering graduated at Centro Universitário de Anápolis - UniEVANGÉLICA. Passionate about technology and web development, I am always trying to improve my skills and learn new ones.
 
 ##
 
