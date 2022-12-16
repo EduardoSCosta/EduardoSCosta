@@ -18,6 +18,8 @@ I am a Computer Engineering graduated at Centro Universitário de Anápolis - Un
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/react-%23202020.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Next.js" height="30" src="https://img.shields.io/badge/next.js-%23202020?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Jest" height="30" src="https://img.shields.io/badge/jest-%23202020?style=for-the-badge&logo=jest&logoColor=%23C21325">
+  <img align="center" alt="Ruby" height="30" src="https://img.shields.io/badge/ruby-%23202020?style=for-the-badge&logo=ruby&logoColor=%23C21325">
+  <img align="center" alt="Rails" height="30" src="https://img.shields.io/badge/rails-%23202020?style=for-the-badge&logo=ruby-on-rails&logoColor=%23C21325">
 </div>
 
 ##
