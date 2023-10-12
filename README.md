@@ -47,7 +47,7 @@ I am a Computer Engineering graduated at Centro Universitário de Anápolis - Un
 ### :email: Contact me
 
 <div> 
-  <a href="https://www.linkedin.com/in/eduardo-souza-costa-araujo/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardoscaraujo/" target="_blank">
     <img align="center" alt="Linkedin" height="36" src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=FFFFFF&style=for-the-badge">
   </a>
   <a href="mailto:eduardoscaraujo@gmail.com" target="_blank">
